@@ -13,7 +13,7 @@ class StudyTutorAgent:
 
     def __init__(self):
 
-        api_key = os.environ.get("GROQ_API_KEY")
+        api_key = os.environ.get("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")
 
         if not api_key:
             raise ValueError(
